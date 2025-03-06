@@ -19,5 +19,5 @@ API Reference: [中文](https://help.aliyun.com/document_detail/29007.html) [ENG
 ## Environment Requirement
 
 1. PHP 7.1.7 and later：Master Branch
-2. PHP 5.2+：[sj-distributor/aliyun-log-php-sdk-php5](https://packagist.org/packages/sj-distributor/aliyun-log-php-sdk-php5)
+2. PHP 7.0+：[sj-distributor/aliyun-log-php-sdk-php70](https://github.com/sj-distributor/aliyun-log-php-sdk-php70)
 
