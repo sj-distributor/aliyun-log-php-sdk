@@ -1,13 +1,5 @@
 ﻿# Aliyun Log Service PHP SDK
 
-## API VERSION
-
-0.6.4
-
-## SDK RELEASE TIME
-
-2024-05-28
-
 ## Introduction
 
 Log Service SDK for PHP，used to set/get log data to Aliyun Log Service(www.aliyun.com/product/sls).
